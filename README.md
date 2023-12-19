@@ -24,5 +24,4 @@ The goal of this project for me was to put the use of supervised learning techni
 With more time, I would want to try other pre-processing techniques as well.
 
 ## Future Goals
-1. Try other models for the same data.
-2. Test further iterations of feature engineering process and use pipelines instead of code repetition. 
+Test further iterations of feature engineering process and use pipelines instead of code repetition. 
