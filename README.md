@@ -10,7 +10,8 @@ The goal of this project for me was to put the use of supervised learning techni
    
 ## Process
 
-![image](https://github.com/Zarmeena667/UnsupervisedLearning-Project6.0-LHL-/assets/145514413/5991c9b0-a2da-4cdb-90e6-0da09c89c8f5)
+![image](https://github.com/Zarmeena667/UnsupervisedLearning-Project6.0-LHL-/assets/145514413/31f210aa-49b5-4c7f-b17e-c97dfe001d0d)
+
 
 
 ## Results/Insights
