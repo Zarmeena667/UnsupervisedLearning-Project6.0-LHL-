@@ -20,9 +20,9 @@ The goal of this project for me was to put the use of supervised learning techni
 * I then performed PCA using no components and plotted a graph showing the cumulative variance as a function of PCA. When using PCA for dimensionality reduction before clustering, this graph helped determine how many dimensions to retain to capture most of the information in the data. The graph plateaus around 6 and so I used 6 number of clusters. the silhouette score went up to 0.66, a clear improvement from 0.29. 
 * The cluster visualization is helpful in deciphering how well the clusters formed by a clustering algorithm (like K-means or hierarchical clustering) are separated in the reduced space of the principal components. The colours represent different clusters. Ideally, we would want to see well-defined, non-overlapping clusters that indicate the algorithm has found distinct groups in the data. Some clusters seem to be well-separated while others are closer together, which might indicate some degree of similarity between those clusters. 
 
-##Challenges
+## Challenges
 With more time, I would want to try other pre-processing techniques as well.
 
-##Future Goals
+## Future Goals
 1. Try other models for the same data.
 2. Test further iterations of feature engineering process and use pipelines instead of code repetition. 
