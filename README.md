@@ -10,6 +10,7 @@ Repository folder guide/order
 3. Wholesale_Data.csv (raw data)
    
 Process
+
 ![image](https://github.com/Zarmeena667/UnsupervisedLearning-Project6.0-LHL-/assets/145514413/5991c9b0-a2da-4cdb-90e6-0da09c89c8f5)
 
 
