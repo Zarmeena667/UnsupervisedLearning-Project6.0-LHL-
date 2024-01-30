@@ -1,7 +1,7 @@
 # UnsupervisedLearning-Project6.0-LHL-
 
 ## Project Motivation and Goals
-The goal of this project for me was to put the use of supervised learning techniques into practice.
+The goal of this project for me was to put the use of unsupervised learning techniques into practice.
 
 ## Repository folder guide/order
 1. Readme
